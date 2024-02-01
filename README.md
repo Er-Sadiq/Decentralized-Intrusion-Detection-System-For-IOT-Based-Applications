@@ -2,7 +2,7 @@
 # Intrusion Detection System For IOT Based Applications 
 
 
-Explore our Intrusion Detection System (IDS) for IoT applications, crafted with NS2, C, Linux, and TCL. Our solution leverages a reputation-based trust algorithm to precisely detect unauthorized access, mitigating threats like blackhole and wormhole attacks. Achieve a 72% security boost with minimal false positives. Enhance your IoT security !!
+Explore my Intrusion Detection System (IDS) for IoT applications, crafted with NS2, C, Linux, and TCL. My solution leverages a reputation-based trust algorithm to precisely detect unauthorized access, mitigating threats like blackhole and wormhole attacks. Achieve a 72% security boost with minimal false positives. Enhance your IoT security !!
 ## Authors
 
 - [@Er-Sadiq-Killedar](https://github.com/Er-Sadiq)
